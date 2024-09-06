@@ -1,0 +1,7 @@
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\bin\Debug\JuegoGato.exe.config
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\bin\Debug\JuegoGato.exe
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\bin\Debug\JuegoGato.pdb
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\obj\Debug\JuegoGato.csproj.AssemblyReference.cache
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\obj\Debug\JuegoGato.csproj.CoreCompileInputs.cache
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\obj\Debug\JuegoGato.exe
+F:\CursoC#Agoato2024\JuegoGato\JuegoGato\obj\Debug\JuegoGato.pdb
